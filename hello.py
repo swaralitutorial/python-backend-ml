@@ -1,1 +1,0 @@
-print("Hello swarali,Python +vs code is ready!")
