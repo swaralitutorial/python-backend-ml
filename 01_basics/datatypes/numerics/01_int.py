@@ -1,7 +1,7 @@
 # Integer Data Type Example
 
-a = 10
-b = 5
+a = 2
+b = 4
 
 print("Value of a:", a)
 print("Value of b:", b)
