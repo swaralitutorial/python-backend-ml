@@ -1,19 +1,13 @@
-# Float Practice
+# Float Data Type Example
 
-a = 10.5
-b = 2.3
+x = 10.5
+y = 2.5
 
-print("Value of a:", a)
-print("Value of b:", b)
+print("Value of x:", x)
+print("Value of y:", y)
+print("Type of x:", type(x))
 
-print("Addition:", a + b)
-print("Subtraction:", a - b)
-print("Multiplication:", a * b)
-print("Division:", a / b)
-
-# Float precision example
-x = 0.1
-y = 0.2
-
-print("Normal Result:", x + y)
-print("Rounded Result:", round(x + y, 2))
+print("Addition:", x + y)
+print("Subtraction:", x - y)
+print("Multiplication:", x * y)
+print("Division:", x / y)
