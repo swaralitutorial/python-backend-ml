@@ -13,4 +13,6 @@ Each file contains:
 ## Progress Log
 
 - Updated numeric datatype examples
-- Practicing Python backend fundamentals daily
+- Practicing Python backend fundamentals dail
+
+undated readme file
